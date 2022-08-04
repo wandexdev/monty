@@ -5,3 +5,5 @@
 Creating an interpreter for Monty ByteCodes files.
 
 ### Files and functions 
+
+### Inference
